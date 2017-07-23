@@ -1,6 +1,6 @@
 # USCIS Hello World App
 
-This is a very simple Spring Boot web app which largely borrows from the standard Gradle - Spring Boot Hello World app available at https://spring.io/guides/gs/spring-boot/.
+This is a very simple Spring Boot web app which largely borrows from the standard Gradle - Spring Boot Hello World app found at https://spring.io/guides/gs/spring-boot/.
 
 ## Pre-requisites
 * Java 1.8
